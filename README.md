@@ -68,4 +68,4 @@ For any inquiries, contact: [abdulmoizniazi@gmail.com](mailto:abdulmoizniazi@gma
 This project is licensed under the MIT License.
 
 
-This is Awesome... Made with ❤️ by Moiz
+   ... Made with ❤️ by Moiz ...
